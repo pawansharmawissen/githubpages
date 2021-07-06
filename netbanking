@@ -1,0 +1,24 @@
+<HTML>
+<head> 
+  <title>State Bank Of India</title>  
+</head>
+  
+<body>
+  <hr>
+     <tr>
+       <td>Home</td>
+         <td>About</td>
+         <td>Services</td>
+        <td>Net Banking</td>
+        <td>Contact Us</td>
+    </tr>
+  </hr>
+  <hr>
+    <h1>
+    NetBanking
+    </h1>
+  </hr>
+
+
+</body>
+</HTML>
